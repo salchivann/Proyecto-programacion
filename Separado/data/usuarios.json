@@ -1,0 +1,17 @@
+[
+  {
+    "usuario": "admin",
+    "contrase\u00f1a": "admin123",
+    "tipo": "admin"
+  },
+  {
+    "usuario": "hola",
+    "contrase\u00f1a": "hopla",
+    "tipo": "pasajero"
+  },
+  {
+    "usuario": "1234",
+    "contrase\u00f1a": "1234",
+    "tipo": "pasajero"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Reina",
+    "ciudad": "Manta, Guayaquil",
+    "telefono": "",
+    "buses": []
+  },
+  {
+    "id": 2,
+    "nombre": "Ruta Portovejences",
+    "ciudad": "Manta, Montecristi, Portoviejo, Chone",
+    "telefono": "",
+    "buses": []
+  }
+]
